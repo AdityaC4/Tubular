@@ -26,7 +26,6 @@ Welcome! Tubular is full compiler for a custom programming language, written in 
 ├── tools.hpp            # Utility functions
 ├── tests/               # Test cases, runners, and HTML/JS test harnesses
 ├── Makefile             # Build and test automation
-├── LICENSE
 └── README.md
 ```
 
